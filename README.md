@@ -1,5 +1,5 @@
 # Hidroponía-Vertical-Escuela-de-Robótica
-##Pasantía ERM
+## Pasantía ERM
 
 Esta fue mi pasantía en la Escuela de Robótica de Misiones
 en la cual con ayuda de mis compañero y facilitadores programamos, diseñamos y armamos una hidroponía vertical.
@@ -14,11 +14,11 @@ Cada modo tiene un tiempo determinado en el que se activa la bomba de agua para 
 
 El proyecto tiene una interfaz simple y sin muchas complicaciones en la que muestra la institución en la que se hizo el proyecto y el modo en el que se esté.
 
-###Prototipo
+### Prototipo
 ![boton test](https://github.com/thiagobrnal/Hidroponia-Vertical-Escuela-de-Robotica/assets/113401275/c93c42fe-32a3-45a8-9ab0-39099167305a)
 
-###Resultado final
+### Resultado final
 ![boton v2](https://github.com/thiagobrnal/Hidroponia-Vertical-Escuela-de-Robotica/assets/113401275/c929d3f2-156e-4f53-8743-7ba2e46d1b54)
 
-###IMPORTANTE
+### IMPORTANTE
 - El proyecto se hizo con Arduino siendo "menu_v4.0" el archivo padre
