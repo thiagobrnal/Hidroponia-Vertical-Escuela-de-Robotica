@@ -21,4 +21,5 @@ El proyecto tiene una interfaz simple y sin muchas complicaciones en la que mues
 ![boton v2](https://github.com/thiagobrnal/Hidroponia-Vertical-Escuela-de-Robotica/assets/113401275/c929d3f2-156e-4f53-8743-7ba2e46d1b54)
 
 ### IMPORTANTE
-- El proyecto se hizo con Arduino siendo "menu_v4.0" el archivo padre
+- El proyecto se hizo con Arduino siendo "menu_v4.0" el main.
+- El resto de los archivos son modulos.
